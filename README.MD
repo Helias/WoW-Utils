@@ -11,8 +11,6 @@ before to do this, it checks if the creatures exists in your database or if they
 
 ## Usage
 
-## How to use
-
 First of all, the toolt must be configured, so open the file config.php and set the username, password and database of your local db.
 
 Well, I made this tool to execute ti from terminal, so to use it go to the directory of wpp extractor.php and write:
