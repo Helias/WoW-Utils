@@ -11,17 +11,17 @@ before to do this, it checks if the creatures exists in your database or if they
 
 ## Usage
 
-# How to use
+## How to use
 
 First of all, the toolt must be configured, so open the file config.php and set the username, password and database of your local db.
 
 Well, I made this tool to execute ti from terminal, so to use it go to the directory of wpp extractor.php and write:
 
-php "wpp extractor.php"
+``` php "wpp extractor.php" ```
 
 press enter, the tool will ask you the path of the file sql extracted with the WoW Packet Parser and the path of the file that will contains the clean fix of the 'spawns'.
 
-exmample:
+example:
 
 ```
 $ php "wpp extractor.php"
