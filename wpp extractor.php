@@ -90,7 +90,6 @@ for ($i = $l+1; $i < $l2; $i++)
 
 		if($already_spawn != 0)
 		{
-			if($id == 49774) { echo "\n ASD2 \n"; }
 			$notneed[$k] = $id;
 			$k++;
 			echo "$id is already spawned \n";
